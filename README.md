@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Ben Dai
+I am an Assistant Professor in The Chinese University of Hong Kong
 
-<!--
-**statmlben/statmlben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: STATS / ML / DL / Python
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on XAI; Causal Inference; Embedding; Learing Framework 
+- 📫 How to reach me: bendai@cuhk.edu.hk 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/statmlben)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.bendai.org)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=statmlben)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=statmlben&show_icons=true)  
+
