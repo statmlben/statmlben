@@ -9,7 +9,8 @@ Skills: STATS / ML / DL / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/statmlben)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.bendai.org)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=statmlben)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=statmlben)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=statmlben&show_icons=true)  
 
+ -->
