@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Ben Dai
 I am an Assistant Professor in The Chinese University of Hong Kong
 
-Skills: STATS / ML / DL / Python
+Skills: STAT / ML / DL / Python
 
 - 🔭 I’m currently working on Learing Framework; Ranking; XAI; Causal Inference
 - 📫 How to reach me: bendai@cuhk.edu.hk 
