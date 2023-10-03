@@ -3,7 +3,7 @@ I am an Assistant Professor in The Chinese University of Hong Kong
 
 Skills: STAT / ML / DL / Python
 
-- 🔭 I’m currently working on Learing Framework; Ranking; XAI; Causal Inference
+- 🔭 I’m currently working on Foundation of ML tasks; Algorithms; STAT-XAI; Software
 - 📫 How to reach me: bendai@cuhk.edu.hk 
 
 <!-- > *That man, I think, has had a liberal education who has been so trained in youth that his body is the ready servant of his will, and does with ease and pleasure all the work that, as a mechanism, it is capable of; whose intellect is a clear, cold, logic engine, with all its parts of equal strength, and in smooth working order.*
